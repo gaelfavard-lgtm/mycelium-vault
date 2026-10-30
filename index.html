@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mycélium</title>
+<style>
+  :root { --fond: #f4f4f2; --encre: #1b1e1a; --doux: #5c625c; --accent: #3f6446; --ligne: #d9dad4; }
+  @media (prefers-color-scheme: dark) {
+    :root { --fond: #131613; --encre: #e9ebe5; --doux: #9aa398; --accent: #9cc09b; --ligne: #2c322c; }
+  }
+  body { margin: 0; background: var(--fond); color: var(--encre);
+         font: 1.0625rem/1.6 Georgia, "Times New Roman", serif; }
+  main { max-width: 38rem; margin: 0 auto; padding: 3rem 16px; }
+  h1 { font: 700 2.4rem/1.1 "Trebuchet MS", sans-serif; margin: 0 0 .4rem; }
+  .sous { color: var(--doux); margin: 0 0 2.5rem; }
+  .langue { border-top: 1px solid var(--ligne); padding: 1.4rem 0; }
+  .langue p { margin: 0 0 .8rem; }
+  a.bouton { display: inline-block; margin: 0 .6rem .5rem 0; padding: .5rem .9rem;
+             border: 1px solid var(--accent); border-radius: 4px; color: var(--accent);
+             text-decoration: none; font-family: "Trebuchet MS", sans-serif; }
+  a.bouton:hover, a.bouton:focus-visible { background: var(--accent); color: var(--fond); }
+  footer { border-top: 1px solid var(--ligne); padding-top: 1rem; color: var(--doux); font-size: .85rem; }
+  footer a { color: var(--accent); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Mycélium</h1>
+  <p class="sous">Une mémoire qui m'appartient, lisible par toutes les IA · A memory I own, readable by any AI</p>
+
+  <section class="langue" lang="fr">
+    <p>🇫🇷 <strong>Le coffre d'un artisan, tenu par une IA.</strong> Le récit de sa construction, raconté par
+    Claude lui-même, et un coffre vide prêt à copier.</p>
+    <a class="bouton" href="fr/_page/mycelium-recit.html">Lire le récit</a>
+    <a class="bouton" href="https://github.com/gaelfavard-lgtm/mycelium-vault/tree/main/fr/gabarit">Le gabarit</a>
+  </section>
+
+  <section class="langue" lang="en">
+    <p>🇬🇧 <strong>The vault of a craftsman, kept by an AI.</strong> The story of how it was built, told by
+    Claude itself, and an empty vault ready to copy.</p>
+    <a class="bouton" href="en/_page/mycelium-story.html">Read the story</a>
+    <a class="bouton" href="https://github.com/gaelfavard-lgtm/mycelium-vault/tree/main/en/template">The template</a>
+  </section>
+
+  <footer>
+    Gaël Favard · <a href="https://github.com/gaelfavard-lgtm/mycelium-vault">github.com/gaelfavard-lgtm/mycelium-vault</a><br>
+    Textes / texts CC BY-SA 4.0 · scripts MIT
+  </footer>
+</main>
+</body>
+</html>

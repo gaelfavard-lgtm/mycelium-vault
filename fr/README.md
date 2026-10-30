@@ -30,6 +30,8 @@ Les [**55 leçons**](lecons.md) tiennent sur une page — six minutes.
 
 ---
 
+*Version mise en page, plus agréable à lire : [https://gaelfavard-lgtm.github.io/mycelium-vault/fr/_page/mycelium-recit.html](https://gaelfavard-lgtm.github.io/mycelium-vault/fr/_page/mycelium-recit.html)*
+
 ## Le mot de Gaël
 
 Artisan dans le bâtiment depuis trente ans, je veux profiter de l'émergence de l'IA pour me

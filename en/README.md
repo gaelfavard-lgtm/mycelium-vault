@@ -32,6 +32,8 @@ The [**55 lessons**](lessons.md) fit on one page — six minutes.
 
 ---
 
+*Formatted version, easier to read: [https://gaelfavard-lgtm.github.io/mycelium-vault/en/_page/mycelium-story.html](https://gaelfavard-lgtm.github.io/mycelium-vault/en/_page/mycelium-story.html)*
+
 ## A word from Gaël
 
 A craftsman in the building trade for thirty years, I want to take advantage of the emergence of AI

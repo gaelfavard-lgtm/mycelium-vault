@@ -2,11 +2,11 @@
 
 🇫🇷 **Le coffre d'un artisan, tenu par une IA.** Un dossier de fichiers texte où tient tout, tenu
 avec Claude : le récit de sa construction, raconté par l'IA elle-même, et un coffre vide prêt à
-copier. → [**Lire en français**](fr/README.md)
+copier. → [**Lire en français**](fr/README.md) · [version mise en page](https://gaelfavard-lgtm.github.io/mycelium-vault/fr/_page/mycelium-recit.html)
 
 🇬🇧 **The vault of a craftsman, kept by an AI.** A folder of text files that holds everything, kept
 with Claude: the story of how it was built, told by the AI itself, and an empty vault ready to copy.
-→ [**Read in English**](en/README.md)
+→ [**Read in English**](en/README.md) · [formatted version](https://gaelfavard-lgtm.github.io/mycelium-vault/en/_page/mycelium-story.html)
 
 ---
 
