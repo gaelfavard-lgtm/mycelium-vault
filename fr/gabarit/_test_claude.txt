@@ -1,0 +1,2 @@
+Fichier de test d'accès (AGENTS.md §2a). Une IA qui doute de pouvoir modifier un fichier existant
+essaie de modifier celui-ci. Son contenu n'a aucune importance.

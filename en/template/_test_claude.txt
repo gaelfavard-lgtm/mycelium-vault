@@ -1,0 +1,2 @@
+Access test file (AGENTS.md §2a). An AI that doubts it can modify an existing file
+tries to modify this one. Its content does not matter.
